@@ -7,4 +7,10 @@ const group = {
     miNumero
 }
 
-module.exports = group;
+module.exports = {
+    myWebAddress,
+    miNombre,
+    miNumero
+};
+
+console.log(module)
